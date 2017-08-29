@@ -1,1 +1,3 @@
-Esse é um programa no Matlab com o ojbetivo de rodar modelos.
+Esse Ã© um programa no Matlab com o ojbetivo de rodar modelos.
+
+Vou fazer o programa do jeito que eu quiser

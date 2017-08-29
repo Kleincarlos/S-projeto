@@ -1,1 +1,2 @@
-Esse � um programa no Matlab com o ojbetivo de rodar modelos.
+Esse é um programa no Matlab com o objetivo de rodar modelos.
+Adiciona alguma coisa aí, sei lá.
